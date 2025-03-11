@@ -1,5 +1,8 @@
 # No Such Thing As A Free Lunch: Explanation and Review
 
+## Usage
+Extract all zipped CSVs to "ELSI_DATA" folder. Run dashboard.py with Python3 and necessary packages (below)
+
 ## Data Source
 
 All data for this project was sourced from the [Elementary and Secondary Information System: Table Generator](https://nces.ed.gov/ccd/elsi/tableGenerator.aspx), from the US Department of Education's National Center for Education Statistics (NCES). The data was exported using five seperate custom table exports; the columns used for these visualizations are:
